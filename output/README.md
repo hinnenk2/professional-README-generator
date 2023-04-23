@@ -1,8 +1,8 @@
-# a
+# professional-README-generator
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-a
+The purpose of this project is to generate a README file based on user inputs.
 
 ## Table of Contents
 * [Installation](#installation)
@@ -15,23 +15,23 @@ a
 ## Installation
 To install the required dependencies, run the following:
 `
-a
+npm i
 `
 
 ## Usage
-aa
+This repo is just a demo.
 
 ## License
 This repository is operating under the MIT license.
 
 ## Contributing
-a
+This repo is just a demo and therefore does not accept contributions.
 
 ## Tests
 For running tests, enter the following:
 `
-a
+npm run test
 `
 
 ## Questions
-For questions about this repository, please reach out at [a](mailto:a).
+For questions about this repository, please reach out at [ihinnenkamp@example.com](mailto:ihinnenkamp@example.com).
