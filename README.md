@@ -10,6 +10,9 @@ This project consists of a command-line-interface application used for generatin
 
 View a complete video demonstration of the application:
 
+ ![Top-Page-Area](/images/readme-video.webm)
+![terminal-screen](https://drive.google.com/file/d/1Xf1yRLCy1k8Jtf865aPIhj8QAgNB-rCD/view)
+
 # professional-README-generator
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
