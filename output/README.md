@@ -1,8 +1,8 @@
-# professional-README-generator
+# professional README generator
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-This project generates README markdown files based on user's input.
+This project generates README markdown files based on the user's input.
 
 ## Table of Contents
 * [Installation](#installation)
