@@ -2,7 +2,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-This project generates README markdown files based on the user's input.
+This project generates README markdown files based on user inputs.
 
 ## Table of Contents
 * [Installation](#installation)
@@ -19,7 +19,6 @@ npm i inquirer@8.2.4
 `
 
 ## Usage
-After installing the required dependencies, initiate the application with:
 This repo is just a demo.
 
 ## License
@@ -35,4 +34,4 @@ npm run test
 `
 
 ## Questions
-For questions about this repository, please reach out at [ihinnenkamp@example.com](mailto:ihinnenkamp@example.com).
+For questions about this repository, please reach out at [ihinnenkamp@example.com](mailto:ihinnenkamp@example.com) or see more of my work in GitHub at [hinnenk2](https://github.com/hinnenk2)

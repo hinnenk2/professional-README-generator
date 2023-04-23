@@ -46,4 +46,4 @@ npm run test
 `
 
 ## Questions
-For questions about this repository, please reach out at [ihinnenkamp@example.com](mailto:ihinnenkamp@example.com).
+For questions about this repository, please reach out at [ihinnenkamp@example.com](mailto:ihinnenkamp@example.com) or see more of my work in GitHub at [hinnenk2](https://github.com/hinnenk2)

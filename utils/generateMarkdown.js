@@ -26,7 +26,6 @@ ${data.installation}
 \`
 
 ## Usage
-After installing the required dependencies, initiate the application with:
 ${data.usage}
 
 ## License
@@ -42,7 +41,7 @@ ${data.tests}
 \`
 
 ## Questions
-For questions about this repository, please reach out at [${data.email}](mailto:${data.email}).
+For questions about this repository, please reach out at [${data.email}](mailto:${data.email}) or see more of my work in GitHub at [${data.username}](https://github.com/${data.username})
 `;
 }
 
