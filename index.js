@@ -43,7 +43,7 @@ const questions = [
         type: "input",
         message: "Please enter the command that should be run to install dependencies?",
         name: "installation",
-        default: "npm i"
+        default: "npm i inquirer@8.2.4"
     },
     {
         type: "input",

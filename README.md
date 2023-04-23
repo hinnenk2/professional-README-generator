@@ -6,6 +6,8 @@ This project consists of a command-line-interface application used for generatin
 
 ### Demonstration
 
+![Top-Page-Area](/images/readme-generator.png)
+
 View a complete video demonstration of the application:
 
 # professional-README-generator

@@ -26,6 +26,7 @@ ${data.installation}
 \`
 
 ## Usage
+After installing the required dependencies, initiate the application with:
 ${data.usage}
 
 ## License
